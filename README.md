@@ -1,19 +1,18 @@
 ## Project Title
 
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
+"Side Quest Week 1: Testing Title".
 
 ---
 
 ## Group Number (only for group work)
 
-List your group number.
+Arabella Hormillada, ahormill, 21088899
 
 ---
 
 ## Description
 
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
+This project shows a blue square.
 
 Example:
 
